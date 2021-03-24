@@ -1,13 +1,14 @@
 ---
-layout: page
 title: Events
+permalink: "/events"
+layout: page
 menubar: events_menu
-permalink: /events
 show_sidebar: false
 hero_height: is-fullwidth
 redirect_from:
-  - /virtual-transcription-events
+- "/virtual-transcription-events"
 ---
+
 ## Upcoming
 
 None right now, but check back!

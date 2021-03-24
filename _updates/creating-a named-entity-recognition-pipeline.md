@@ -1,14 +1,17 @@
 ---
+title: Creating a Named Entity Recognition Pipeline for the <i>Soul of Reason</i>
+  Radio Program
+date: 2020-12-18 00:00:00 Z
 layout: update
-title: Creating a Named Entity Recognition Pipeline for the <i>Soul of Reason</i> Radio Program
 author: nyla
-date: 2020-12-18
 hero_sub: Project Updates
 hero_height: is-fullwidth
 show_sidebar: false
-img: 'images/uploads/vis.jpeg'
-abstract: "In this post, I discuss my experience working on the Soul of Reason collection as a Junior Data Scientist through the DS3 initiative at NYU's Center for Data Science."
+img: images/uploads/vis.jpeg
+abstract: In this post, I discuss my experience working on the Soul of Reason collection
+  as a Junior Data Scientist through the DS3 initiative at NYU's Center for Data Science.
 ---
+
 ### Introduction
 
 {% include inline-figure.html

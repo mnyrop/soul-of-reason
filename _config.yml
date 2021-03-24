@@ -1,33 +1,38 @@
-# main settings
+---
 title: Raising the Volume!
+timezone: UTC
+collections:
+  pages:
+    title: Pages
+    output: true
+  posts:
+    title: Posts
+    output: true
+  updates:
+    title: Updates
+    output: true
+    permalink: updates/:title/
+  uploads:
+    title: Uploads
+    output: true
 subtitle: Amplifying <i>Soul of Reason</i>
 email: soulofreason [at] nyu [dot] edu
 repository: nyu-dss/soul-of-reason
 url: ''
-baseurl: '/soul-of-reason'
-
-# build settings
+baseurl: "/soul-of-reason"
 permalink: pretty
 markdown: kramdown
 incremental: true
 plugins:
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  - kramdown
-  - rouge
+- jekyll-sitemap
+- jekyll-redirect-from
+- jekyll-paginate
+- jekyll-feed
+- jekyll-remote-theme
+- jekyll-seo-tag
+- kramdown
+- rouge
 whitelist:
-  - jekyll-redirect-from
-collections:
-  updates:
-    output: true
-    permalink: updates/:title/
-  pages:
-    output: true
-
-# theme settings
+- jekyll-redirect-from
 remote_theme: chrisrhymes/bulma-clean-theme
-favicon: 'assets/favicon.png'
+favicon: assets/favicon.png

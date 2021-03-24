@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Resources
+permalink: "/resources"
+layout: page
 menubar: resources_menu
-permalink: /resources
 show_sidebar: false
 hero_height: is-fullwidth
 ---

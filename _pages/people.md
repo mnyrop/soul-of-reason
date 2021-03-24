@@ -1,8 +1,8 @@
 ---
-layout: page
 title: People
+permalink: "/people"
+layout: page
 menubar: people_menu
-permalink: /people
 show_sidebar: false
 hero_height: is-fullwidth
 ---

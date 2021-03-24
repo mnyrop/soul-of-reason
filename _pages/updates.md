@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Project Updates
-permalink: /updates
+permalink: "/updates"
+layout: page
 show_sidebar: false
 hero_height: is-fullwidth
 ---
+
 <div class="columns is-multiline unset-gradient">
   {% assign updates = site.updates | sort: 'date' | reverse %}
   {% for item in updates %}

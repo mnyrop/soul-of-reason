@@ -1,30 +1,28 @@
 ---
+title: Home
 layout: page
 menubar: about_menu
 hero_height: is-fullwidth
-title: Home
 intro: true
 progress:
   total: 153.0
   bars:
-  - label: 'corrected outside events'
+  - label: corrected outside events
     num: 30
-    color: '#474b24'
-  - label: 'completed during events'
+    color: "#474b24"
+  - label: completed during events
     num: 63
-    color: '#5fbb97'
+    color: "#5fbb97"
     text: black
-  - label: 'partially corrected during events'
+  - label: partially corrected during events
     num: 13
-    color: '#dcf763'
+    color: "#dcf763"
     text: black
-  - label: 'remaining'
+  - label: remaining
     striped: true
-    color: '#a2a2a3'
+    color: "#a2a2a3"
     num: 47
 ---
-
-
 
 ## About the *Soul of Reason* Collection
 
